@@ -1,7 +1,7 @@
 lib-2020-2029-book
 ================
 Ivan Jacob Agaloos Pesigan
-2025-10-05
+2025-11-04
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -41,6 +41,16 @@ longitudinal analysis of human processes*. Chapman & Hall/CRC Press,.
 Hayes, A. F. (2022). *Introduction to mediation, moderation, and
 conditional process analysis: A regression-based approach* (3rd ed., p.
 732). Guilford Publications.
+
+</div>
+
+<div id="ref-Patrick-Miech-Johnston-etal-2025" class="csl-entry">
+
+Patrick, M. E., Miech, R. A., Johnston, L. D., & O’Malley, P. M. (2025).
+*<span class="nocase">Monitoring the Future Panel Study</span> annual
+report: National data on substance use among adults ages 19 to 65,
+1976–2024*. Institute for Social Research, University of Michigan.
+<https://doi.org/10.7302/26783>
 
 </div>
 
